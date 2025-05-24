@@ -1,0 +1,4 @@
+This is a file
+That will be used to test
+Read Files in C
+// It contains multiple lines
