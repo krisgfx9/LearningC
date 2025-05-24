@@ -1,0 +1,3 @@
+This is the first file that i am writing
+ My name is Kris 
+ and i do enjoy programming in C
